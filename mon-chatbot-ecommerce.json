@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "durable-verve-452402-f2",
+  "private_key_id": "2cf4d7405834188183c289af1de4abda269aef1b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDbgZXxctVWRSlF\nNVqpla4Sxox+VH+LQFgYv+dJmeMKHWq4UNSEU53pTSVVpoIfQOytnZ/Jwkh66ET8\nc7iWT9lvtUmgHMA1F69aY9MWnfNvWT2/JQIRYSaotyQiMpo8MZ3U6cA6k+6ejzzZ\nbAu6jFCd3ojU1QOV7qoSxwEpTTxHSBdbYxZFxywssU8nMnoRum50+FeEnlzEldde\ndxnwSsehEw60G1Fjvfjs4qtbd50wxPJ4/oZ3xFdqyJARZj8RGK0975wWm+VaMkKs\n7eRiVbvoXMlRHBqFp3TnXdkwiraK7DK4y+PW39MiOKbV2GcMD7v0aPDaSx1Cl35T\n/6BVqTvXAgMBAAECggEAKp5n8wfFRSlLgI0B6+BMeofDWnnkg7B8Cl4kNYWj7+BT\nSrMi+AhWJiic4ZrhM9lCutjaX+2Rbg+v6UY8pi6dvJM51tUOOqC9IrM0FnWXgNyW\nYQj59E7lFyfr45nomVxW1TKHaLg1QeL0wRA53MAGnQhKj+xF9HPw4JFz98VvuTT5\naJjSbZwVzuD4GxW+Au6Sc4abh/x1rJ3K73Qo2N0DP/7Wfj3TCGxSg05FrCQRkU2Z\n/pVDoauZP34ZsQl3QZeXjYQ6yV0jDWGAa3Qaw9uplObtmh1uoIJYj7qQ/IcTHgxt\nB3h71adFt13jchvZkWFybRYQrB/d1HC7xzbzYp7e0QKBgQD6Izo2XHsQS7EEbPOp\nJMH8wcYPT8V1JnmxzXq7rgLJn2T0Mpl3z8f4o0IB+px9rlLlwWLO4FnpJT0hTNlJ\ntUPY+BZNFZeXJ3skIPmZLJvz4H88pAkFDLt+MXfNVPUxXdagup8YJQVtnnr7Ngcu\n3/UCdmLlyh9NzRohJQbf4TSpcQKBgQDgppOLF6aDh/C11pXoa7dnICsCDP4M92Wz\nFg8P/JzzeWoiAjCdgjqwAvR8i68J9HmHICPBWa/hzSCedNEx71MKbhxWgaB/mWE6\nB5pmMJOoX2lfyltI7+Te1pbBGt25I+EMhxeif77Tl1MGbhFiZZAhhnasISFhOPtF\ntL8E7WdVxwKBgF+2XQ7yAjDxFZIA8pdVNlk1+EhhmMfD6irr2ju4UN6/fAyo0+px\nei4coiRJtdmte5Dol5tbY2v/0M1OL5Kxpn1+KGJkkbXH6KmhaICA/keqLmWQytbA\n0XlvCk1qZcv3ASpNXpUJjXMtghdfzA3WqlS/4gXVenb1tTrbhS7jaJgxAoGBALNL\n/6IZxCpiSvm2RHr1zbEe+XRvjiwnICIozujBgzrHgq+V89siX1ivYxYsHg3h80Sn\noCHnRPsAzrHpJjWmfy5p53AbkU+FyRWZj99TkeXmEKIFTYoO/SnlNvj0SlZDjpCD\nGZf2QQV7VyZgnrtbuAcp3HlRD+Uap2Fg+rwiBkFtAoGBAKNeh4SlF9MiJouvbhVg\ny2lTFsShhfSWJ7Gg+tggC9l66AiEhujEAxaiei/FHmVA0acwnIy/ihQ5G469V45w\nvNahPtBIVBTWDyf6vn8IBjYM0Lh7gCEfSdq8UeiFfV+MeQ3eM+C+WYyIlpgGSVEd\nTL8SDD0EplIi8niuCJEYTOOf\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-access@durable-verve-452402-f2.iam.gserviceaccount.com",
+  "client_id": "106744130633450584573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-access%40durable-verve-452402-f2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
