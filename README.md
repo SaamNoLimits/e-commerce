@@ -117,4 +117,4 @@ https://next-mongo-ecommerce-final.vercel.app/
 
 ## Contact Developer
 
-Email: basir.jafarzadeh@gmail.com
+Email: Ms. Zineb AHJLI X Mr. Oussama AHJLI
