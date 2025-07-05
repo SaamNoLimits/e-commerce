@@ -137,7 +137,7 @@ npm run dev
 ## 📞 Contact
 
 This project was developed by:
-- **Ms. Zineb AHJLI** & **Mr. Oussama AHJLI**
+- **Ms. Zineb** & **Mr. Oussama**
 
 ## 📄 License
 
