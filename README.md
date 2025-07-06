@@ -6,11 +6,9 @@
   
   **A full-featured e-commerce solution built with modern web technologies**
   
-  [Live Demo](https://next-mongo-ecommerce-final.vercel.app/) | [Video Tutorial](https://youtu.be/WLHCPwqHzzQ)
+ 
   
-  [![GitHub stars](https://img.shields.io/github/stars/basir/nextjs-amazona?style=social)](https://github.com/basir/nextjs-amazona)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-  
+
 </div>
 
 ## 🚀 Tech Stack
