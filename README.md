@@ -41,8 +41,8 @@
 ### 1. Clone Repository
 
 ```bash
-git clone git@github.com:basir/nextjs-amazona.git
-cd nextjs-amazona
+git clone git@github.com:SaamNoLimits/e-commerce.git
+cd e-commerce
 ```
 
 ### 2. Environment Setup
